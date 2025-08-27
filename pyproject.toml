@@ -1,0 +1,7 @@
+[project]
+name = "elastic-rag"
+version = "0.1.0"
+description = "Simple project to use ElasticSearch and Kibana for RAG"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
